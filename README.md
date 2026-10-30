@@ -1,13 +1,31 @@
-Welcome to my page! I'm a passionate software developer with three (2) years of professional experience. Feel free to explore my profile and get in touch.
+# Hi there! 👋 Welcome to my GitHub Profile
 
-👨‍💻 Some of my projects are available at https://hassandev-sigma.vercel.app/.
-👀 I’m interested in: Web development, software engineering, and innovative tech solutions that make a difference.
-📄 Know about my experiences via my résumé.
-❤️ I'm in love with Manchester United FC.
-📫 Reach me at hassanyusuuf122@gmail.com
+I'm a passionate **Frontend Developer** with 2 years of professional experience, focused on building responsive, user-friendly, and modern web applications.
 
+Feel free to explore my profile and check out some of my projects!
 
-<!---
-AscenxioBlog/AscenxioBlog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👨‍💻 Projects
+Some of my projects are available on my [Portfolio Website](https://hassandev-sigma.vercel.app/).
+
+### 👀 Interests
+- Web Development
+- Software Engineering
+- Frontend Technologies
+- Innovative Tech Solutions
+
+### 🛠️ What I Do
+I enjoy turning ideas into functional digital experiences and continuously improving my skills through learning and building projects.
+
+### 📄 Experience
+You can learn more about my professional background and experience through my résumé.
+
+### ❤️ Beyond Coding
+I'm a passionate supporter of **Manchester United FC**!
+
+### 📫 Get in Touch
+- **Email:** hassanyusuuf122@gmail.com
+- **Portfolio:** https://hassandev-sigma.vercel.app/
+
+---
+
+*Thanks for visiting my profile. Let's connect and build something amazing!* 🚀
